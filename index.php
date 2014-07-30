@@ -1,6 +1,6 @@
 <?php
   require('includes/application_top.php');
-
+//comments
 /* the following cPath references come from application_top.php  */
 
   $category_depth = 'top';
